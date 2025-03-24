@@ -1,7 +1,7 @@
 # CVAT-Practice-Annotation
 Documentation for my CVAT practice annotation 
 
-I've started learning about Data Annotation using CVAT tool - A computer vision tool for labeling visual data in image for training a Machine Learning model to classify different objects in images and videos.
+I've started learning about Data Annotation using CVAT tool - A computer vision tool for labeling visual data in image/video content to teach Machine Learning model classify different objects in images and videos.
 
 #Learnings from my first data annotation project:
 - Familiarization of CVAT tool interface.
